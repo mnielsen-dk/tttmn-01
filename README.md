@@ -2,7 +2,10 @@
 tttmn test 01
 
 case action of
-  sales : ;
+  sales : 
+    begin
+      // ...
+    end;
   purchase : ;
 else
   ;
