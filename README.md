@@ -6,7 +6,9 @@ case action of
     begin
       // ...
     end;
-  purchase : ;
+  purchase : 
+    begin
+    end;
 else
   ;
 end;
